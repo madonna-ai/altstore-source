@@ -1,0 +1,40 @@
+{
+  "name": "stablestream",
+  "subtitle": "all of my projects are available here for free to download and use",
+  "description": "well uh, this is awkward! welcome to my source. here i publish some of my projects for free. i really hope you enjoy them! if you have any questions, feel free to reach me out on discord at @stablestream, or twttr (same username!).",
+  "iconURL": "https://tidewaves.vercel.app/sourceicon.png",
+  "website": "https://stablestream.lol/",
+  "tintColor": "#A0522D",
+  "featuredApps": [
+    "com.stablestream.tidewaves"
+  ],
+  "apps": [
+    {
+      "name": "tidewaves",
+      "bundleIdentifier": "com.stablestream.tidewaves",
+      "developerName": "stablestream",
+      "subtitle": "track tides, coastal warnings and more.",
+      "localizedDescription": "a simple app to track tides, coastal warnings, and more. beta version, so information may be inaccurate.",
+      "iconURL": "https://tidewaves.vercel.app/icon.png",
+      "tintColor": "#0051FF",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-04-25",
+          "localizedDescription": "beta release !",
+          "downloadURL": "https://tidewaves.vercel.app/tidewaves.ipa",
+          "size": 3942595,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
