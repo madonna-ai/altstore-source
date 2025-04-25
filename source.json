@@ -6,12 +6,12 @@
   "website": "https://stablestream.lol/",
   "tintColor": "#A0522D",
   "featuredApps": [
-    "com.stablestream.tidewaves"
+    "stablestream.tidewaves"
   ],
   "apps": [
     {
       "name": "tidewaves",
-      "bundleIdentifier": "com.stablestream.tidewaves",
+      "bundleIdentifier": "stablestream.tidewaves",
       "developerName": "stablestream",
       "subtitle": "track tides, coastal warnings and more.",
       "localizedDescription": "a simple app to track tides, coastal warnings, and more. beta version, so information may be inaccurate.",
